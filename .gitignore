@@ -1,0 +1,5 @@
+cache/*.html
+out/*.txt
+.idea
+.DS_Store
+__pycache__
